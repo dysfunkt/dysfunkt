@@ -16,7 +16,7 @@ I aspire to work in full stack development or cybersecurity.
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-### My Interest
+### My Interests
 WIP
 ### Currently Learning
 WIP
