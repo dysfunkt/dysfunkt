@@ -2,7 +2,7 @@
 I'm Willy, a Year 2 Computer Science undergraduate at Nanyang Technological University, Singapore.
 
 ### My Goals
-I aspire to work in full stack development or cybersecurity.
+I aspire to work in game development, full stack development or cybersecurity.
 
 ### My Experiences
 <p>
