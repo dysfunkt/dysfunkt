@@ -20,6 +20,8 @@ I aspire to work in full stack development or cybersecurity.
 WIP
 ### Currently Learning
 WIP
+### You can find me at:
+WIP
 <!---
 dysfunkt/dysfunkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
