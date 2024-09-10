@@ -17,11 +17,17 @@ I aspire to work in game development, full stack development or cybersecurity.
 </p>
 
 ### My Interests
-WIP
+- Learning new things 📖
+- Music 🎸
+- Gaming 🎮
 ### Currently Learning
-WIP
+- Golang
+- AWS
+- C++/C#
+- Web development
+- Mobile app development
 ### You can find me at:
-WIP
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <!---
 dysfunkt/dysfunkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
