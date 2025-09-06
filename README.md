@@ -1,5 +1,5 @@
 # Hey! Welcome to my humble GitHub page!  
-I'm Willy, a Year 3 Computer Science undergraduate at Nanyang Technological University, Singapore.
+I'm Willy, a Year 4 Computer Science undergraduate at Nanyang Technological University, Singapore.
 
 ### My Goals
 I aspire to work in game development, full stack development or cybersecurity.
